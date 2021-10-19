@@ -1,4 +1,4 @@
-# Hi, We are the Computational Medicinal Chemistry Lab.
+## Hi, We are the Computational Medicinal Chemistry Lab.
 📫 We are based in Lisbon, and we itegrate the iMed.ULisboa institute as the Faculty of Pharmacy of Lisbon.
 
 <!---
